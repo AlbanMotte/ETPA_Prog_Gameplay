@@ -1,0 +1,14 @@
+.Boss{
+	border: #000000 3px solid;
+	background-color : red;
+}
+
+.PV{
+	border : #000000 2px solid;
+	background-color : green;
+	width : 200px;
+	position : relative;
+	top : 325px;
+	
+}
+

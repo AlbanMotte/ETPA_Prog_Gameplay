@@ -1,0 +1,78 @@
+.pl{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.nom{
+    font-size: 20px;
+    color: white;
+}
+
+.pv{
+    font-size: 20px;
+    color : green;
+}
+
+.mp{
+    font-size: 20px;
+    color: dodgerblue;
+}
+
+.lvl{
+    font-size: 20px;
+    color: red;
+}
+
+.act{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.pde{
+    font-size: 15px;
+    color: white;
+}
+
+img{
+    width: 50%;
+    height: 100%
+}
+
+.Stat{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 75%;
+    height: 30%;
+}
+
+.action{
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgba(30, 30, 50, 0.8);
+    height: 40%;
+    width: 10%;
+}
+
+.describe{
+    border: 1px solid white;
+    display: flex;
+    align-items: flex-start;
+    background-color: rgba(30, 30, 50, 0.8);
+    height: 50%;
+    width: 30%;
+}
+
+
+.Level{
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: rgba(30, 30, 50, 0.8);
+    height: 100%;
+    width: 50%;
